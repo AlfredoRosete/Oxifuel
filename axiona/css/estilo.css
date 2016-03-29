@@ -1,0 +1,24 @@
+
+header{
+
+	text-align:center;
+}
+
+.center{ 
+
+	margin:0 auto;
+}
+
+#general {
+	width: 800px;
+	min-height:300px;
+}
+
+footer{
+	font-size:0.8 em;
+	text-align:center;
+}
+
+.centartxt{
+	text-align:center;
+}
